@@ -1,0 +1,16 @@
+name: android-samples
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/eb27d271-b5d5-4fb1-9d1b-ce91c608db06
+description: Samples demonstrating how to use Maps SDK for Android
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/android-samples
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
